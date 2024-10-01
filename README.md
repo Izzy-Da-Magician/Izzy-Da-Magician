@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Izzy-Da-Magician
-- 👀 I’m interested in building innovative solutions
-- 🌱 I’m currently learning more about cloud services and system infra
+- 👀 I’m building innovative solutions currently at Earnipay
+- 🌱 I’m currently bossing it (I think) in cloud services and system infra
 - 📫 How to reach me: email:israel@earnipay.com
 
 <!---
